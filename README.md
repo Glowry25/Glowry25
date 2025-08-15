@@ -4,10 +4,12 @@
 
 
 ⚡ Fun fact:  I'm a Frontend Developer presently taking a course on Frontend Development. Coming from a non-tech background, I bring a fresh 
-              perspective and a strong problem-solving mindset to frontend development!
-🌱 Technologies I’ve worked with: JavaScript, HTML, CSS, Git.
-😊 I’m excited to collaborate on internships, and entry-level roles!
-💼 Job interests: Frontend Development.
+              perspective and a strong problem-solving mindset to frontend development!<br/><br/>
+🌱 Technologies I’ve worked with: JavaScript, HTML, CSS, Git. <br/><br/>
+😊 I’m excited to collaborate on internships, and entry-level roles!<br/><br/>
+
+💼 Job interests: Frontend Development.<br/><br/>
+
 📫 How to reach me: [Gmail](glorygift95@gmail.com)
 
 <hr/>

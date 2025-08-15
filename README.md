@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**Glowry25/Glowry25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋, I'm Eriaremhen Glory, I'm a Frontend Developer.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+⚡ Fun fact:  I'm a Frontend Developer presently taking a course on Frontend Development. Coming from a non-tech background, I bring a fresh 
+              perspective and a strong problem-solving mindset to frontend development!
+🌱 Technologies I’ve worked with: JavaScript, HTML, CSS, Git.
+😊 I’m excited to collaborate on internships, and entry-level roles!
+💼 Job interests: Frontend Development.
+📫 How to reach me: [Gmail](glorygift95@gmail.com)
+
+<hr/>
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Glowry25&show_icons=true&include_all_commits=true&hide_border=true" alt="Eriaremhen Glory GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glowry25&langs_count=8&layout=compact&hide_border=true" alt="Eriaremhen Glory GitHub languages stats" /> |
+| ------------- | ------------- |
+
+
+

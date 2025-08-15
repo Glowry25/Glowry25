@@ -13,8 +13,7 @@
 📫 How to reach me: [Gmail](glorygift95@gmail.com)
 
 <hr/>
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Glowry25&show_icons=true&include_all_commits=true&hide_border=true" alt="Eriaremhen Glory GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glowry25&langs_count=8&layout=compact&hide_border=true" alt="Eriaremhen Glory GitHub languages stats" /> |
-| ------------- | ------------- |
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Glowry25&show_icons=true&include_all_commits=true&hide_border=true" alt="Eriaremhen Glory GitHub Stats" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glowry25&langs_count=8&layout=compact&hide_border=true" alt="Eriaremhen Glory GitHub languages stats" />
 
 
 
